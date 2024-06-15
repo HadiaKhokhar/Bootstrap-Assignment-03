@@ -1,0 +1,22 @@
+.navbar{
+    background-color: #D60000 !important;
+}
+/* logo */
+img.navbar-brand{
+    height:7vh
+}
+/* Nav bar Pages links */
+.navbar-nav{
+    justify-content:space-around;
+    font:550 1.2rem  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.nav-item a{
+    color: #F2F2F2 
+}
+.nav-item>a:hover,.nav-item>.active{
+    color: #272627 !important
+}
+.dropdown-menu{
+    background-color:#D60000;
+    font: inherit;
+}
